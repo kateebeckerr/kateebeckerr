@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-# Kate Becker
+<h1 align="center">Hi! I'm Kate Becker! </h1>
+
+<h3 align="center"> Current student working to obtain a Master of Environmental Data Science at the University of California, Santa Barbara </h3>
+
+<br>
+
+**Pronouns:** *she/her* 
+
+**Personal website:** [)
+
+**Linked In:** 
 
 ## About Me
 
