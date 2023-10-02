@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Kate Becker
+
+## About Me
+
+## Education 
+
+## Experience 
+
+
+
 <!--
 **kateebeckerr/kateebeckerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
