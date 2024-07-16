@@ -1,8 +1,7 @@
-### Hi there 👋
 
-<h1 align="center">Hi! I'm Kate Becker! </h1>
+<h1 align="center">Kate A. Becker! </h1>
 
-<h3 align="center"> Current student working to obtain a Master of Environmental Data Science at the University of California, Santa Barbara </h3>
+<h3 align="center"> Recent Master's graduate at the Bren School of Environmental Science and Management, University of California, Santa Barbara  </h3>
 
 <br>
 
@@ -10,14 +9,22 @@
 
 **Personal website:** [)
 
-**Linked In:** 
+**Linked In:** [Profile](https://www.linkedin.com/in/kate-becker-b3163a193/)
 
 ## About Me
+MY background is in environmental science and management specifically within marine science and fisheries management. I've spent my last few years obtaining a Bachelor's of science in Environmental Studies and a Master's of Environmental Data Science.
 
 ## Education 
+Master of Environmental Data Science (June 2024)
+Bren School of Environmental Science & Management –- University of California, Santa Barbara (UCSB)
 
-## Experience 
+Bachelor of Science in Environmental Studies (June 2022)
+University of California, Santa Barbara (UCSB)
+  Concentrations: Environmental Policy, Sustainability, Climate Change, and Conservation
 
+
+## How to reach me
+Email: katebecker06@gmail.com
 
 
 <!--
@@ -26,6 +33,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- experience
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
