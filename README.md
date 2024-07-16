@@ -7,12 +7,10 @@
 
 **Pronouns:** *she/her* 
 
-**Personal website:** [)
-
 **Linked In:** [Profile](https://www.linkedin.com/in/kate-becker-b3163a193/)
 
 ## About Me
-MY background is in environmental science and management specifically within marine science and fisheries management. I've spent my last few years obtaining a Bachelor's of science in Environmental Studies and a Master's of Environmental Data Science.
+My background is in environmental science and management specifically within marine science and fisheries management. I've spent my last few years obtaining a Bachelor's of science in Environmental Studies and a Master's of Environmental Data Science.
 
 ## Education 
 Master of Environmental Data Science (June 2024)
@@ -32,6 +30,7 @@ Email: katebecker06@gmail.com
 
 Here are some ideas to get you started:
 
+- **Personal website:** [)
 - 🔭 I’m currently working on ...
 - experience
 - 🌱 I’m currently learning ...
